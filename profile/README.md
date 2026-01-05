@@ -1,9 +1,11 @@
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/amanogawa-space/.github/main/profile/assets/banner.png" width="741" height="390" alt="banner">
+<img src="https://raw.githubusercontent.com/amanogawa-space/.github/main/profile/assets/banner.png" width="300" alt="banner">
 
-Ласкаво просимо на сторінку Amanogawa Space — організації, що стоїть за Amanogawa та всією технічною екосистемою навколо неї.
+<br/><br/>
 
-Ми розробляємо та підтримуємо платформи, інструменти й інфраструктуру, що забезпечують українську локалізацію аніме та роботу спільноти.
+Amanogawa Space — організація, що стоїть за Amanogawa та її технічною екосистемою.
+
+Ми створюємо інструменти та інфраструктуру для української локалізації аніме й роботи спільноти.
 
 </div>
